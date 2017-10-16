@@ -1,0 +1,20 @@
+.yellow {
+ background-color: yellow;	
+ 
+}
+
+.gray {
+ background-color: gray;	
+  color:#FFFFFF;
+}
+
+div{
+ padding: 10px;	
+	
+}
+
+.yellow, .gray {
+padding: 10px;	
+height: 100px;
+ margin: 10px;	
+}
